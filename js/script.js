@@ -1,1 +1,0 @@
-var typed=new Typed(".typing",{strings:["Youtuber","Developer","Founder of YTS Studio","Web Designer","Freelancer","Abolfazl EZ"],typeSpeed:100,backSpeed:60,cursorChar:" |",smartBackspace:!0,loop:!0});
